@@ -1,0 +1,59 @@
+I want to break free 
+I want to break free
+I wabt to break free from your life your self satisfied i dont need you 
+I got to break free
+god knows i want to break free
+
+
+I am  fall in love 
+I am  fall in love for the first time 
+and this time i know its for real 
+I am  fall in love 
+god knows
+god knows I am falling love
+
+its strange but its true 
+
+
+-Queen 
+
+Interthread communication 
+
+Inter thread communication or co-operation is all about allowing synchronized threads to communicate witn each other.
+It is mechanism in which a thread is paused running  in its  critical section and another thread is allowed to enter in
+the same critical section to be executed its implemented by following methods of object class.
+wait()
+notify()
+notifyAll()
+
+
+1985 Live Aid
+
+Is this the real life 
+Is this just fantasy 
+Caught in the real life
+No escape from reality 
+Open your eyes 
+Look back to the sky and see
+I am just a poor boy
+I need no sympathy
+Because I am easy come easy go
+little high little low
+Anyway to wind blow 
+Does it really matter (to me)*2
+
+Mama just kill the man 
+Put a gun against his head 
+Pulled my tiger now his dead 
+Mama life has just began
+Now i have gone through it all way 
+Mama oo ooo ooo ooo
+I dont wanna die 
+Somtimes wish i never been born
+
+
+
+
+
+
+

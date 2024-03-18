@@ -1,0 +1,16 @@
+try{    
+        Class.forName("com.mysql.jdbc.Driver");
+        Connection con = DriverManager.getConnection(
+        "jdbc:mysql://localhost:3306/bca","root","");
+        Statement st = con.createStatement();
+        String query = "INSERT INTO "
+                + "marks(id,java) "
+                + "VALUES(100,120)";
+        st.execute(query);
+        System.out.println("value inserted");
+                }
+                catch(Exception ex){
+                
+                
+                }
+    
